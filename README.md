@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! I'm Syeda Anshrah Gillani 👋</h1>
+<h1 align="center">Hi there! I'm Syeda Anshrah Gillani 👋</h1>
 
 <p align="center">
   <a href="https://github.com/SyedaAnshrahGillani">
@@ -11,34 +11,9 @@
 
 ---
 
-### 🚀 AI Engineer & Researcher
+### 🧠 Deep Neural Nets Enthusiast
 
-I'm an **Artificial Intelligence Engineer & Researcher** passionate about leveraging AI to solve real-world challenges. My work focuses on cutting-edge applications of **Large Language Models (LLMs)** and **Large Vision-Language Models (LVLMs)**, including depression detection and AI-based vision assistance systems.
-
--   🔭 Actively engaged in applied AI research and innovative solution development.
--   🌱 Continuously exploring advanced AI paradigms like **Multimodal RAG** and the latest **OpenAI models**.
--   💬 Ask me about: **LLMs, LVLMs, AI for Social Good, Machine Learning, and Deep Learning.**
--   ⚡ Fun fact: I enjoy translating complex AI concepts into accessible insights through writing and videos!
-
----
-
-### 🛠️ My Expertise
-
-**Core AI & ML:**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-005C99?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6700?style=for-the-badge&logo=pytorch&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-007ACC?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Languages & Frameworks:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21C?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Tools & Platforms:**
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=github-actions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+I love deep neural nets. My work revolves around exploring and building with cutting-edge AI, especially Large Language Models (LLMs) and Large Vision-Language Models (LVLMs).
 
 ---
 
