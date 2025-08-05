@@ -11,8 +11,6 @@
 
 ---
 
-### 🧠 Deep Neural Nets Enthusiast
-
 I love deep neural nets. My work revolves around exploring and building with cutting-edge AI, especially Large Language Models (LLMs) and Large Vision-Language Models (LVLMs).
 
 ---
