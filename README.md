@@ -67,28 +67,13 @@ Here are some of the technologies and areas I work with:
 
 ---
 
-### 📈 Latest Activity & Content
 
-<!-- BLOG-POST-LIST:START -->
-<!-- This section can be dynamically updated by a GitHub Action.
-     For example, using 'gautamkrishnar/blog-post-workflow' for blog posts
-     or 'JamesIves/github-activity-readme' for GitHub activity.
-     You'll need to set up a GitHub Action in your .github/workflows directory.
-     Example for GitHub Activity:
-     https://github.com/JamesIves/github-activity-readme
--->
-- ✍️ Latest on Medium: [AI and Creativity: The Future of Human-Machine Collaboration](https://medium.com/@SyedaAnshrahGillani/ai-and-creativity-the-future-of-human-machine-collaboration-xxxxxxxxxxxx) (Example - replace with actual latest post)
-- 📺 Latest on YouTube: [Understanding Multimodal RAG for Enhanced AI Applications](https://www.youtube.com/watch?v=xxxxxxxxxxxx) (Example - replace with actual latest video)
-- 🚀 Recently contributed to [your-recent-repo/project-name](https://github.com/your-recent-repo/project-name)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ### 🤝 Connect with Me
 
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SyedaAnshrahGillani)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@YourYouTubeChannel) <!-- Replace with your actual YouTube channel link -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syeda-anshrah-gillani-a7b7b71b7/) <!-- Replace with your actual LinkedIn profile link -->
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@syedaanshrah16)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@SyedaAnshrahGillani)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syeda-anshrah-gillani-788204263/)
 <!-- Add more social media links if you have them -->
 
 ---
