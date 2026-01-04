@@ -13,6 +13,11 @@
   <a href="https://scholar.google.com/citations?user=OFnkXDQAAAAJ&hl=en">Google Scholar</a>
 </p>
 
+<p align="center">
+  <img src="./assets/signature-banner.svg" alt="Signature banner" />
+</p>
+
+
 
 ### Focus
 LLM/VLM experimentation → evaluation → production deployment (RAG, agents, pipelines)
