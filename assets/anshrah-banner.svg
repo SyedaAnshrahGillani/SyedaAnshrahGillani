@@ -60,4 +60,38 @@
   <g>
     <circle class="node" cx="160" cy="95" r="6">
       <animate attributeName="r" values="5.2;6.6;5.2" dur="2.8s" repeatCount="indefinite" begin="0s"/>
-      <animate attributeName="fill-opacity" values="0.14;0.
+      <animate attributeName="fill-opacity" values="0.14;0.28;0.14" dur="2.8s" repeatCount="indefinite" begin="0s"/>
+    </circle>
+    <circle class="node2" cx="265" cy="70" r="5.2">
+      <animate attributeName="r" values="4.6;5.8;4.6" dur="3.1s" repeatCount="indefinite" begin="0.2s"/>
+      <animate attributeName="fill-opacity" values="0.08;0.16;0.08" dur="3.1s" repeatCount="indefinite" begin="0.2s"/>
+    </circle>
+    <circle class="node" cx="365" cy="104" r="6">
+      <animate attributeName="r" values="5.2;6.6;5.2" dur="2.9s" repeatCount="indefinite" begin="0.45s"/>
+      <animate attributeName="fill-opacity" values="0.14;0.28;0.14" dur="2.9s" repeatCount="indefinite" begin="0.45s"/>
+    </circle>
+    <circle class="node2" cx="520" cy="78" r="5.2">
+      <animate attributeName="r" values="4.6;5.8;4.6" dur="3.2s" repeatCount="indefinite" begin="0.6s"/>
+      <animate attributeName="fill-opacity" values="0.08;0.16;0.08" dur="3.2s" repeatCount="indefinite" begin="0.6s"/>
+    </circle>
+    <circle class="node" cx="650" cy="98" r="6">
+      <animate attributeName="r" values="5.2;6.6;5.2" dur="2.85s" repeatCount="indefinite" begin="0.8s"/>
+      <animate attributeName="fill-opacity" values="0.14;0.28;0.14" dur="2.85s" repeatCount="indefinite" begin="0.8s"/>
+    </circle>
+    <circle class="node2" cx="810" cy="120" r="5.2">
+      <animate attributeName="r" values="4.6;5.8;4.6" dur="3.15s" repeatCount="indefinite" begin="1.05s"/>
+      <animate attributeName="fill-opacity" values="0.08;0.16;0.08" dur="3.15s" repeatCount="indefinite" begin="1.05s"/>
+    </circle>
+    <circle class="node" cx="930" cy="96" r="6">
+      <animate attributeName="r" values="5.2;6.6;5.2" dur="2.95s" repeatCount="indefinite" begin="1.2s"/>
+      <animate attributeName="fill-opacity" values="0.14;0.28;0.14" dur="2.95s" repeatCount="indefinite" begin="1.2s"/>
+    </circle>
+  </g>
+
+  <!-- Text block -->
+  <text class="title" x="60" y="110">Syeda Anshrah Gillani</text>
+  <text class="sub" x="60" y="138">AI Engineer · LLMs · Vision-Language · Applied Deep Learning</text>
+
+  <text class="meta" x="60" y="168">I build reliable AI systems — measurable, grounded, production-ready.</text>
+  <text class="hint" x="60" y="224">focus: retrieval · agents · evaluation · deployment</text>
+</svg>
