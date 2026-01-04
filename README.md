@@ -1,4 +1,6 @@
-<h2 align="center">Syeda Anshrah Gillani</h2>
+<p align="center">
+  <img src="./assets/anshrah-banner.svg" width="100%" alt="Syeda Anshrah Gillani — Neural Pulse Banner" />
+</p>
 
 <p align="center">
   <a href="https://github.com/SyedaAnshrahGillani">
@@ -10,19 +12,39 @@
 </p>
 
 <p align="center">
-  AI Engineer / Researcher — LLMs · Vision-Language · Deep Learning
+  AI Engineer · LLMs · Vision-Language · Applied Deep Learning
 </p>
 
 <p align="center">
   <a href="https://medium.com/@syedaanshrah16">Medium</a> ·
   <a href="https://www.youtube.com/@SyedaAnshrahGillani">YouTube</a> ·
   <a href="https://www.linkedin.com/in/syeda-anshrah-gillani-788204263/">LinkedIn</a> ·
-  <a href="https://scholar.google.com/citations?user=OFnkXDQAAAAJ&hl=en">Scholar</a>
+  <a href="https://scholar.google.com/citations?user=OFnkXDQAAAAJ&hl=en">Google Scholar</a>
 </p>
 
-<br/>
+---
 
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SyedaAnshrahGillani&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=SyedaAnshrahGillani&hide_border=true" alt="Streak stats" />
-</p>
+**What I do**  
+I build reliable AI systems around **LLMs** and **Vision-Language** — from research experiments to production-grade pipelines.
+
+**Principles**  
+- correctness > vibes  
+- simple > clever  
+- measurable impact
+
+<details>
+  <summary><b>Focus areas</b></summary>
+
+- RAG + retrieval quality (evaluation, reranking, grounding)
+- agentic workflows (planning, tool use, guardrails)
+- multimodal understanding (LVLMs, VLM pipelines)
+- deployment (latency, cost, observability)
+
+</details>
+
+<details>
+  <summary><b>Collaboration</b></summary>
+
+If you’re working on applied LLM/VLM systems, evaluation, or ML tooling — happy to connect.
+
+</details>
