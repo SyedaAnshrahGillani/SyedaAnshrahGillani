@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Animated aurora banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#070A12"/>
+      <stop offset="55%" stop-color="#0A1530"/>
+      <stop offset="100%" stop-color="#070A12"/>
+      <animate attributeName="x2" values="1200;900;1200" dur="10s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="auroraA" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#60A5FA" stop-opacity="0.0"/>
+      <stop offset="35%" stop-color="#A78BFA" stop-opacity="0.55"/>
+      <stop offset="70%" stop-color="#34D399" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#60A5FA" stop-opacity="0.0"/>
+      <animate attributeName="x1" values="-200;200;-200" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1000;1400;1000" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <linearGradient id="auroraB" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22C55E" stop-opacity="0.0"/>
+      <stop offset="45%" stop-color="#38BDF8" stop-opacity="0.35"/>
+      <stop offset="75%" stop-color="#C084FC" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#22C55E" stop-opacity="0.0"/>
+      <animate attributeName="x1" values="200;-200;200" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="1400;1000;1400" dur="11s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <filter id="blur" x="-20%" y="-40%" width="140%" height="180%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
+
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M60 0H0V60" fill="none" stroke="#FFFFFF" stroke-opacity="0.05" stroke-width="1"/>
+    </pattern>
+
+    <mask id="fade">
+      <rect width="1200" height="260" fill="white"/>
+      <rect y="0" width="1200" height="260" fill="url(#fadeGrad)"/>
+    </mask>
+
+    <linearGradient id="fadeGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#000" stop-opacity="0.0"/>
+      <stop offset="55%" stop-color="#000" stop-opacity="0.0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.25"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="20" fill="url(#grid)" opacity="0.8"/>
+
+  <g filter="url(#blur)" mask="url(#fade)">
+    <path d="M-80 160 C 120 90, 270 210, 470 140 S 820 80, 1280 145 L 1280 300 L -80 300 Z"
+          fill="url(#auroraA)" opacity="0.9">
+      <animate attributeName="d"
+        dur="8s" repeatCount="indefinite"
+        values="
+        M-80 160 C 120 90, 270 210, 470 140 S 820 80, 1280 145 L 1280 300 L -80 300 Z;
+        M-80 150 C 140 120, 300 190, 520 150 S 840 110, 1280 150 L 1280 300 L -80 300 Z;
+        M-80 160 C 120 90, 270 210, 470 140 S 820 80, 1280 145 L 1280 300 L -80 300 Z
+        "/>
+    </path>
+
+    <path d="M-80 190 C 140 130, 320 240, 540 175 S 900 115, 1280 175 L 1280 300 L -80 300 Z"
+          fill="url(#auroraB)" opacity="0.75">
+      <animate attributeName="d"
+        dur="10s" repeatCount="indefinite"
+        values="
+        M-80 190 C 140 130, 320 240, 540 175 S 900 115, 1280 175 L 1280 300 L -80 300 Z;
+        M-80 175 C 170 160, 350 220, 590 190 S 920 150, 1280 190 L 1280 300 L -80 300 Z;
+        M-80 190 C 140 130, 320 240, 540 175 S 900 115, 1280 175 L 1280 300 L -80 300 Z
+        "/>
+    </path>
+  </g>
+
+  <g font-family="ui-sans-serif, -apple-system, Segoe UI, Inter, Arial" fill="#E5E7EB" opacity="0.92">
+    <text x="70" y="92" font-size="18" letter-spacing="0.4">LLM Agents • AI Orchestration • Infrastructure</text>
+    <text x="70" y="124" font-size="13" opacity="0.75">Deep engineering •  proven impact • build & ship</text>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="258" rx="20" fill="none" stroke="#FFFFFF" stroke-opacity="0.07"/>
+</svg>
