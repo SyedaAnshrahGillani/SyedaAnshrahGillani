@@ -18,7 +18,9 @@ Deep neural networks · LLMs · Large Vision-Language Models
 
 </div>
 
-<!-- PERSONALIZED ANIMATED SNAKE -->
+<!-- YOUR 3D CONTRIBUTION SKYLINE -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+  <a href="https://skyline.github.com/SyedaAnshrahGillani/2024">
+    <img src="https://skyline.github.com/SyedaAnshrahGillani/2024.png" alt="GitHub 3D Skyline" width="100%"/>
+  </a>
 </div>
