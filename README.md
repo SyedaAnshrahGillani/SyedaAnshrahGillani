@@ -18,9 +18,11 @@ Deep neural networks · LLMs · Large Vision-Language Models
 
 </div>
 
-<!-- NEXT-LEVEL STATS: 3D Perspective -->
+<!-- GITHUB SKYLINE - Actually Unique -->
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SyedaAnshrahGillani&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&card_width=400" style="transform: perspective(600px) rotateX(8deg);"/>
+<a href="https://skyline.github.com/SyedaAnshrahGillani/2024">
+  <img src="https://skyline.github.com/SyedaAnshrahGillani/2024.png" alt="2024 GitHub Contribution Skyline" width="100%"/>
+</a>
 
 </div>
