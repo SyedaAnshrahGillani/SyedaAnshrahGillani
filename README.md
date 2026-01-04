@@ -18,10 +18,8 @@
 </p>
 
 
-### What I do
-- **LLMs & Vision-Language**: training, fine-tuning, evaluation, and deployment  
-- **Practical AI systems**: retrieval, agents, and production-grade pipelines  
-- **Focus**: reliability, measurable improvements, clean engineering
+### Focus
+LLM/VLM experimentation → evaluation → production deployment (RAG, agents, pipelines)
 
 ### Collaboration
-Open to research + engineering collaboration where **quality and impact** matter.
+Happy to collaborate on work that ships and can be measured.
