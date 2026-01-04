@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Syeda Anshrah Gillani — AI Engineer · LLMs · Vision-Language · Applied Deep Learning">
+  <defs>
+    <linearGradient id="gLine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B5FFF" stop-opacity="0.18"/>
+      <stop offset="0.5" stop-color="#111827" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#0B5FFF" stop-opacity="0.18"/>
+    </linearGradient>
+
+    <linearGradient id="gPulse" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0B5FFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#0B5FFF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#0B5FFF" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      .bg { fill: #ffffff; }
+      .border { fill: none; stroke: #111827; stroke-opacity: 0.08; }
+      .title { font: 600 34px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; fill: #0f172a; }
+      .sub { font: 450 15px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; fill: #334155; }
+      .meta { font: 450 13px ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial; fill: #475569; }
+      .hint { font: 500 12px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; fill: #64748b; }
+      .net { stroke: #0f172a; stroke-opacity: 0.12; stroke-width: 1; fill: none; }
+      .node { fill: #0B5FFF; fill-opacity: 0.22; }
+      .node2 { fill: #0f172a; fill-opacity: 0.10; }
+    </style>
+  </defs>
+
+  <!-- Card -->
+  <rect class="bg" x="14" y="14" width="1172" height="232" rx="18"/>
+  <rect class="border" x="14" y="14" width="1172" height="232" rx="18"/>
+
+  <!-- Subtle baseline -->
+  <rect x="40" y="204" width="1120" height="2" fill="url(#gLine)"/>
+
+  <!-- Animated pulse dot traveling along the baseline -->
+  <circle cx="80" cy="205" r="3.2" fill="#0B5FFF" filter="url(#softGlow)" opacity="0.55">
+    <animate attributeName="cx" values="80;1120;80" dur="7.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.15;0.65;0.15" dur="7.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Pulse shimmer -->
+  <rect x="40" y="203" width="260" height="4" fill="url(#gPulse)" opacity="0.55">
+    <animate attributeName="x" values="40;900;40" dur="7.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.0;0.55;0.0" dur="7.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Minimal "neural" network lines -->
+  <path class="net" d="M120 88 C 210 40, 300 140, 390 92 S 560 40, 650 92 S 820 140, 910 92 S 1080 40, 1120 92"/>
+  <path class="net" d="M120 160 C 230 190, 310 110, 420 140 S 590 190, 700 140 S 870 110, 980 140 S 1100 190, 1120 160"/>
+
+  <!-- Nodes with gentle breathing animation -->
+  <g>
+    <circle class="node" cx="160" cy="95" r="6">
+      <animate attributeName="r" values="5.2;6.6;5.2" dur="2.8s" repeatCount="indefinite" begin="0s"/>
+      <animate attributeName="fill-opacity" values="0.14;0.
