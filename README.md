@@ -1,50 +1,36 @@
-<p align="center">
-  <img src="./assets/anshrah-banner.svg" width="100%" alt="Syeda Anshrah Gillani — Neural Pulse Banner" />
-</p>
+## Syeda Anshrah Gillani
 
-<p align="center">
-  <a href="https://github.com/SyedaAnshrahGillani">
-    <img src="https://komarev.com/ghpvc/?username=SyedaAnshrahGillani&color=blue" alt="Profile views" />
-  </a>
-  <a href="https://github.com/SyedaAnshrahGillani?tab=followers">
-    <img src="https://img.shields.io/github/followers/SyedaAnshrahGillani?style=social" alt="GitHub followers" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  AI Engineer · LLMs · Vision-Language · Applied Deep Learning
-</p>
+**AI Research & Engineering** • Deep Neural Networks • LLMs • LVLMs
 
-<p align="center">
-  <a href="https://medium.com/@syedaanshrah16">Medium</a> ·
-  <a href="https://www.youtube.com/@SyedaAnshrahGillani">YouTube</a> ·
-  <a href="https://www.linkedin.com/in/syeda-anshrah-gillani-788204263/">LinkedIn</a> ·
-  <a href="https://scholar.google.com/citations?user=OFnkXDQAAAAJ&hl=en">Google Scholar</a>
-</p>
+<a href="https://komarev.com/ghpvc/?username=SyedaAnshrahGillani&color=0969DA">
+  <img src="https://komarev.com/ghpvc/?username=SyedaAnshrahGillani&color=0969DA" alt="Views" height="16"/>
+</a> Profile views
 
 ---
 
-**What I do**  
-I build reliable AI systems around **LLMs** and **Vision-Language** — from research experiments to production-grade pipelines.
+<!-- Premium Social Stack -->
+<a href="https://www.linkedin.com/in/syeda-anshrah-gillani-788204263/">
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="24"/>
+</a>
+<a href="https://scholar.google.com/citations?user=OFnkXDQAAAAJ">
+  <img src="https://img.shields.io/badge/Google Scholar-000?style=for-the-badge&logo=google-scholar&logoColor=4285F4" height="24"/>
+</a>
+<a href="https://medium.com/@syedaanshrah16">
+  <img src="https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium&logoColor=00FF00" height="24"/>
+</a>
+<a href="https://www.youtube.com/@SyedaAnshrahGillani">
+  <img src="https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000" height="24"/>
+</a>
 
-**Principles**  
-- correctness > vibes  
-- simple > clever  
-- measurable impact
+</div>
 
-<details>
-  <summary><b>Focus areas</b></summary>
+<!-- Animated Stats Grid -->
+<div align="center">
 
-- RAG + retrieval quality (evaluation, reranking, grounding)
-- agentic workflows (planning, tool use, guardrails)
-- multimodal understanding (LVLMs, VLM pipelines)
-- deployment (latency, cost, observability)
+| | |
+|:--:|:--:|
+| <img src="https://github-readme-stats.vercel.app/api?username=SyedaAnshrahGillani&show_icons=true&theme=dark&hide_border=true&hide_title=true&card_width=280" width="280"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=SyedaAnshrahGillani&theme=dark&hide_border=true&hide_title=true&card_width=280" width="280"/> |
 
-</details>
-
-<details>
-  <summary><b>Collaboration</b></summary>
-
-If you’re working on applied LLM/VLM systems, evaluation, or ML tooling — happy to connect.
-
-</details>
+</div>
