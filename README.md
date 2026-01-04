@@ -13,9 +13,7 @@
   <a href="https://scholar.google.com/citations?user=OFnkXDQAAAAJ&hl=en">Google Scholar</a>
 </p>
 
-<p align="center">
-  <img src="./assets/signature-banner.svg" alt="Signature banner" />
-</p>
+
 
 ### What I do
 - **LLMs & Vision-Language**: training, fine-tuning, evaluation, and deployment  
