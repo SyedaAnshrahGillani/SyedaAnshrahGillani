@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/signature-banner.svg" alt="Signature banner" />
+  <img src="./assets/signature-bannerr.svg" alt="Signature banner" />
 </p>
 
 
