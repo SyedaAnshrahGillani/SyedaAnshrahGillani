@@ -18,15 +18,14 @@ Deep neural networks · LLMs · Large Vision-Language Models
 
 </div>
 
-<!-- ANIMATED GITHUB MASCOT -->
+<!-- TOP: Animated Snake -->
 <div align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Logo" width="50" style="animation: pulse 2s infinite;"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Snake"/>
 </div>
 
-<style>
-  @keyframes pulse {
-    0% { transform: scale(1); }
-    50% { transform: scale(1.1); }
-    100% { transform: scale(1); }
-  }
-</style>
+<!-- BOTTOM: 3D Skyline -->
+<div align="center">
+  <a href="https://skyline.github.com/SyedaAnshrahGillani/2024">
+    <img src="https://skyline.github.com/SyedaAnshrahGillani/2024.png" alt="GitHub 3D Skyline" width="90%"/>
+  </a>
+</div>
