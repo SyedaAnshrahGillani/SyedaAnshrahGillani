@@ -74,8 +74,8 @@
 
   <!-- Optional minimal text (delete this group if you want ZERO text) -->
   <g font-family="ui-sans-serif, -apple-system, Segoe UI, Inter, Arial" fill="#E5E7EB" opacity="0.92">
-    <text x="70" y="92" font-size="18" letter-spacing="0.4">LLM Agents • AI Orchestration • Infrastructure</text>
-    <text x="70" y="124" font-size="13" opacity="0.75">Deep engineering .  proven impact . build & ship</text>
+    <text x="70" y="92" font-size="18" letter-spacing="0.4">LLMs • Vision-Language • Systems</text>
+    <text x="70" y="124" font-size="13" opacity="0.75">Clean engineering · measurable impact · shipping</text>
   </g>
 
   <rect x="1" y="1" width="1198" height="258" rx="20" fill="none" stroke="#FFFFFF" stroke-opacity="0.07"/>
